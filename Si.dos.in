@@ -1,0 +1,5 @@
+&dos
+   outdir = './',
+   prefix='si',
+   fildos='si.dos',
+/
